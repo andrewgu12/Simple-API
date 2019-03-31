@@ -1,0 +1,5 @@
+boostrap/*.log
+.vagrant/
+*.log
+node_modules/
+__pycache__
